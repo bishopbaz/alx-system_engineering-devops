@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod udo+rwx 0x01-shell_permissions
+chmod ugo+rwx 11-directories_permissions
